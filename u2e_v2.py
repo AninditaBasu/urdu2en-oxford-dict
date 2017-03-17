@@ -5,8 +5,8 @@ import json
 
 # credentials from the OxfordDictionaries site: https://developer.oxforddictionaries.com/admin/account
 
-app_id = '92618303'
-app_key = 'c8e511a71ad1f2a8344a7ccab292df14'
+app_id = '---'
+app_key = '---'
 api_base_url = 'https://od-api.oxforddictionaries.com/api/v1/entries/'
 
 source_language = 'ur'
