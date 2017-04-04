@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Urdu to English learning resource: Enter word</title>
+    <!--<link rel=stylesheet type=text/css href="./static/bootstrap.css">-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+<div class = "container">
+
+    <div class="panel">
+    <h1 class = "text-warning">Urdu to English <small>Learning resource</small> <span class="glyphicon glyphicon-education"></span></h1>
+    <p class = "small text-warning"><span class="glyphicon glyphicon-send"></span> Powered by: <a href = "https://developer.oxforddictionaries.com/documentation">Oxford Dictionaries API</a></p>
+    <hr/>
+    <p class = "lead text-warning">A web app that will ask you for an Urdu word and show you the following things:</p>
+        <ul class = "text-warning">
+            <li>The corresponding words in English</li>
+            <li>Pronunciation of these English words</li>
+            <li>The synonyms and related words for these English words</li>
+        </ul>
+
+    </div>
+
+    <div class = "panel">
+    <p class = "text-warning">Enter an Urdu word (in the Natsalikh script)</p>
+    <form action="." method="POST">
+        <div class = "form-group">
+        <input type="text" name="urduword" placeholder="">
+        </div>
+        <div class = "form-group">
+        <input type="submit" name="word-get" value="Go" class = "btn-warning btn-large">
+        </div>
+    </form>
+    </div>
+
+    <p class = "text-right small text-warning">The icons are from <a href = "http://glyphicons.com/">http://glyphicons.com/</a></p>
+
+</div>
+
+</body>
+
+</html>
