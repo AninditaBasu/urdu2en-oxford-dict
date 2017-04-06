@@ -1,3 +1,5 @@
+![version 1.0](https://img.shields.io/badge/version-1.0-green.svg)  ![python 3.4.3](https://img.shields.io/badge/python-3.4.3-blue.svg)  ![license: CC 4.0](https://img.shields.io/badge/license-CC%204.0-lightgrey.svg)  
+
 # urdu2en-oxford-dict
 
 This is an Urdu-to-English learning app that uses the [Oxford Dictionaries APIs](https://developer.oxforddictionaries.com/documentation) to show you word translations, their pronunciations, and synonyms and related words.
