@@ -4,7 +4,8 @@
 
 This is an Urdu-to-English learning app that uses the [Oxford Dictionaries APIs](https://developer.oxforddictionaries.com/documentation) to show you word translations, their pronunciations, and synonyms and related words.
 
-This app is an entry for the [Oxford Dictionaries API Contest](https://developer.oxforddictionaries.com/2017-competition).
+This app is an entry for the [Oxford Dictionaries API Contest](https://developer.oxforddictionaries.com/2017-competition). Here's a demo:
+[app demo](https://youtu.be/RgcfrWC4Vww)
 
 ## System requirements
 
@@ -15,7 +16,7 @@ This app is an entry for the [Oxford Dictionaries API Contest](https://developer
  ## Input requirements
  
  - An API ID and key of an Oxford Dictionaries account. See [getting your API ID and key](https://developer.oxforddictionaries.com/documentation/getting_started).
- - A keyboard than can type in the Nastalikh script. If you do not have such a keyboard, use an online resource to copy-paste words in Nastalikh when the app prompts you.
+ - A keyboard than can handle Nastalikh. If you do not have such a keyboard, use an online resource to copy-paste words in Nastalikh when the app prompts you to.
  
  ## How to use
  
