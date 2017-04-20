@@ -5,7 +5,7 @@
 This is an Urdu-to-English learning app that uses the [Oxford Dictionaries APIs](https://developer.oxforddictionaries.com/documentation) to show you word translations, their pronunciations, and synonyms and related words.
 
 This app is an entry for the [Oxford Dictionaries API Contest](https://developer.oxforddictionaries.com/2017-competition). Here's a demo:
-[app demo](https://youtu.be/RgcfrWC4Vww)
+[![urdu2englishAppDemo](https://raw.github.com/AninditaBasu/urdu2en-oxford-dict/master/app_screenshot.PNG)](https://youtu.be/RgcfrWC4Vww)
 
 ## System requirements
 
