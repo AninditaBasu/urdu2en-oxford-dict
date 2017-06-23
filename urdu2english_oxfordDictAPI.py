@@ -3,7 +3,6 @@ from flask import request
 from flask import render_template
 import requests
 import json
-import os
 
 app = Flask(__name__)
 
@@ -87,6 +86,5 @@ def word_process():
     except:
         return 'Error'
 
-if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
+if __name__ == '__main__':    
+    app.run()
