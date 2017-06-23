@@ -1,1 +1,1 @@
-﻿web: gunicorn app:python urdu2english_oxfordDictAPI.py
+﻿web: gunicorn app:python urdu2english_oxfordDictAPI
