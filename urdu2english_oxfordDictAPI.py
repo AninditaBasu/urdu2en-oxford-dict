@@ -14,8 +14,8 @@ def word_get():
 @app.route('/', methods=['POST'])
 def word_process():
     # credentials from the OxfordDictionaries site: https://developer.oxforddictionaries.com/admin/account
-    app_id = '92618303'#:) please don't misuse these creds
-    app_key = 'c8e511a71ad1f2a8344a7ccab292df14'#:) please don't misuse these creds
+    app_id = 'your_ID'# replace 'your_ID' with your app ID
+    app_key = 'your_key'# replace 'your_key' with your app key
     api_base_url = 'https://od-api.oxforddictionaries.com/api/v1/entries/'
 
     source_language = 'ur'
