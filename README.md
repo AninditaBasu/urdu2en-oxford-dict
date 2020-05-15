@@ -1,4 +1,6 @@
-__The version of the API used in this code (Oxford Dictionaries API v1) is being sunset as of 30 June 2019. This code has not been updated to use v2 of the API yet. Therefore, this code will stop working after the API v1 sunset.__
+__The code in this repo is no longer being maintained. For newer stuff, see [Mercury](https://github.com/AninditaBasu/mercury), which uses v2.3 of the Oxford Dictionaries API.__
+
+__The version of the API used in this code (Oxford Dictionaries API v1) reached sunset on 30 June 2019. Therefore, this code hasn't worked after the API v1 sunset.__
 
 ![version 1.0](https://img.shields.io/badge/version-1.0-green.svg)  ![python 3.4.3](https://img.shields.io/badge/python-3.4.3-blue.svg)  ![license: CC 4.0](https://img.shields.io/badge/license-CC%204.0-lightgrey.svg)  
 
