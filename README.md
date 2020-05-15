@@ -1,8 +1,10 @@
 __The code in this repo is no longer being maintained. For newer stuff, see [Mercury](https://github.com/AninditaBasu/mercury), which uses v2.3 of the Oxford Dictionaries API.__
 
+![version 1.0](https://img.shields.io/badge/version-1.0-green.svg)  ![python 3.4.3](https://img.shields.io/badge/python-3.4.3-blue.svg)  ![license: CC 4.0](https://img.shields.io/badge/license-CC%204.0-lightgrey.svg)  
+
 __The version of the API used in this code (Oxford Dictionaries API v1) reached sunset on 30 June 2019. Therefore, this code hasn't worked after the API v1 sunset.__
 
-![version 1.0](https://img.shields.io/badge/version-1.0-green.svg)  ![python 3.4.3](https://img.shields.io/badge/python-3.4.3-blue.svg)  ![license: CC 4.0](https://img.shields.io/badge/license-CC%204.0-lightgrey.svg)  
+<hr/>
 
 # urdu2en-oxford-dict
 
